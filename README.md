@@ -1,2 +1,2 @@
 # rsscool-cv
-https://annsham.github.io/rsschool-cv/
+https://github.com/annsham/rsscool-cv.git
